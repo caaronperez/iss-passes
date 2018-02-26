@@ -1,0 +1,6 @@
+framework module Pods_iss_passes {
+  umbrella header "Pods-iss-passes-umbrella.h"
+
+  export *
+  module * { export * }
+}
